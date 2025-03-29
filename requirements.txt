@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+requests
+ffmpeg-python
+nltk
+yt-dlp
+faster-whisper
+langdetect
+transformers
+torch
+sentencepiece
+tokenizer
